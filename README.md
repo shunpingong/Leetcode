@@ -7,4 +7,4 @@ Leetcode exercises that I have attempted.
 ## My Solutions
 Leetcode Exercise|Solution|Difficulty
 -----------------|---------|-----------
-[1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution (Language)](Github link) | Easy
+[1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution (C)](https://github.com/shunpingong/Leetcode/blob/main/1.Two%20Sum/Solution.c) | Easy
