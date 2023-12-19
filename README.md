@@ -11,6 +11,7 @@ Leetcode Exercise|Solution|Difficulty
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution (Python)](https://github.com/shunpingong/Leetcode/blob/main/94.%20Binary%20Tree%20Inorder%20Traversal/Solution.py) | Easy
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution (Java)](https://github.com/shunpingong/Leetcode/blob/main/242.%20Valid%20Anagram/Solution.java) | Easy
 [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution (C)](https://github.com/shunpingong/Leetcode/blob/main/509.%20Fibonacci%20Number/Solution.c) | Easy
+[661. Image Smoother](https://leetcode.com/problems/image-smoother/) | [Solution (Python)](https://github.com/shunpingong/Leetcode/blob/main/509.%20Fibonacci%20Number/Solution.c) | Easy
 [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | [Solution (Python)](https://github.com/shunpingong/Leetcode/blob/main/867.%20Transpose%20Matrix/Solution.py) | Easy
 [1287. Element Appearing More Than 25% In Sorted Array](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/) | [Solution (Python)](https://github.com/shunpingong/Leetcode/blob/main/1287.%20Element%20Appearing%20More%20Than%2025%25%20In%20Sorted%20Array/Solution.py) | Easy
 [1436. Destination City](https://leetcode.com/problems/destination-city/) | [Solution (Python)](https://github.com/shunpingong/Leetcode/blob/main/1436.%20Destination%20City/Solution.py) | Easy
